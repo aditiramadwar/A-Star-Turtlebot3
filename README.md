@@ -41,13 +41,9 @@ user input: start x = 1, start y = 0.5
 ### Choice 1: Manual parameters
 
 > Enter Clearence, eg = 0.3:   
-
 > Enter RPM1, eg = 2:   
-
 > Enter RPM2, eg = 3:  
-
 > Enter source points as X,Y,theta eg = 4, 0.5, 0 :   
-
 > Enter destination points as X,Y eg = 4, 8:  
 ### Choice 2: Default parameters
 - Start = (1, 1, 0)
