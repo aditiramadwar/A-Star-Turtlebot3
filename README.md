@@ -12,12 +12,12 @@ The map is defined as follows :
   
 <p align="center">
 
-<img  alt="map1"  src="results/map1.png"  width="75%" />
+<img  alt="map1"  src="turtlebot_astar/results/map1.png"  width="75%" />
 
 </p>
 <p align="center">
 
-<img  alt="map"  src="results/map.png"  width="75%" />
+<img  alt="map"  src="turtlebot_astar/results/map.png"  width="75%" />
 
 </p>
 
@@ -43,7 +43,7 @@ The output image shows the path found.
 
 <p align="center">
 
-<img  alt="result"  src="results/path.gif"  width="75%" />
+<img  alt="result"  src="turtlebot_astar/results/path.gif"  width="75%" />
 
 </p>
 
