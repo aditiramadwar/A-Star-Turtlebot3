@@ -120,3 +120,7 @@ The output image shows the path found.
   
 
 </p>
+
+<p align="center">
+<img  alt="result"  src="turtlebot_astar/results/ros.gif"  width="75%" />
+</p>
